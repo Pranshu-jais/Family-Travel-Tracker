@@ -29,7 +29,7 @@ Install the project dependencies using npm:
 npm install
 ```
 **Running the Project**
-
+run queries in queries.sql in PostgreSQL
 ```bash
 node index.js
 ```
