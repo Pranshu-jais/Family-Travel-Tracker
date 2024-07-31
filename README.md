@@ -1,5 +1,5 @@
 # Family-Travel-Tracker
-A user friendly multiple user travel tracking  web app 
+A user friendly multiple user countries travel tracking  web app 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Javascript
@@ -18,8 +18,7 @@ A user friendly multiple user travel tracking  web app
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/social_media_app.git
-cd social_media_app
+git clone https://github.com/Pranshu-jais/Family-Travel-Tracker
 ```
 
 **Installation**
@@ -34,3 +33,10 @@ npm install
 ```bash
 node index.js
 ```
+
+
+
+
+https://github.com/user-attachments/assets/c0d20a61-4d85-40c0-8a92-b6a726254747
+
+
